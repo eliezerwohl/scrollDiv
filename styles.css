@@ -1,0 +1,27 @@
+#navBar{
+	background-color: red;
+	height:60px;
+}
+
+#nav2 {
+	background-color: green;
+	margin-top: 100px
+}
+
+#div3 {
+	background-color: blue;
+	margin-top: 1000px;
+	height:1400px;
+	margin-bottom: 800px
+}
+
+#div4 {
+	background-color: black;
+	margin-top: 800px;
+	height:400px;
+	margin-bottom: 800px
+}
+
+body{
+height:1000px;
+}
